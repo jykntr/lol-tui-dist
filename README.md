@@ -188,7 +188,7 @@ This checks for a newer release, downloads the asset for your platform, shows a
 progress bar, and replaces the running executable in place. When it finishes:
 
 ```
-Updated to v1.3.0. Restart lol-tui to use it.
+Updated to v1.3.1. Restart lol-tui to use it.
 ```
 
 Restart the app to pick up the new version. If you're already current, it says so
@@ -203,7 +203,7 @@ On launch, lol-tui quietly checks whether a newer release exists. If so, the
 status bar at the bottom of the screen shows:
 
 ```
-update available: v1.3.0 — run lol-tui --update
+update available: v1.3.1 — run lol_tui --update
 ```
 
 The check is network-only and never downloads anything on its own; updates are
